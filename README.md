@@ -1,4 +1,9 @@
-## Hi there 👋
+
+# Hi, I'm Insharah Ansari 👋
+🔭 I’m currently working on projects
+🌱 I’m currently learning python  
+  
+
 
 <!--
 **InsharahA/InsharahA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
